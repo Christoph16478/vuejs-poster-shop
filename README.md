@@ -3,10 +3,6 @@
 Source code for the case-study project from the course [Build Your First Vue.js App](https://courses.vuejsdevelopers.com/p/build-your-first-vue-js-app?utm_source=github-vjd
 )
 
-#### Demo
-
-See the completed project here: [http://poster-shop.vuejsdevelopers.com/](http://poster-shop.vuejsdevelopers.com/)
-
 #### Pre-installation
 
 Ensure [Node.js  >=4](https://nodejs.org/en/download/), [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
