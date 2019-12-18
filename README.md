@@ -3,7 +3,7 @@
 
 ### Pre-installation
 
-Ensure [Node.js  >=4](https://nodejs.org/en/download/), [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
+Ensure [Node.js](https://nodejs.org/en/download/), [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
  
 ### Installation
 
@@ -38,4 +38,4 @@ Ensure [Node.js  >=4](https://nodejs.org/en/download/), [NPM](https://docs.npmjs
 
 5. Your site will be available at *localhost:3000*.
 
-Note: This project was carried out with the help of the course "Vue.js essentials".
+This project was carried out with the help of the course "Vue.js essentials".
