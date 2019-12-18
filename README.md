@@ -1,13 +1,11 @@
 # Vue.js Poster Shop
 
-Source code for the case-study project from the course [Build Your First Vue.js App](https://courses.vuejsdevelopers.com/p/build-your-first-vue-js-app?utm_source=github-vjd
-)
 
-#### Pre-installation
+### Pre-installation
 
 Ensure [Node.js  >=4](https://nodejs.org/en/download/), [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
  
-#### Installation
+### Installation
 
 1. Install this code on your local system
      
@@ -39,3 +37,5 @@ Ensure [Node.js  >=4](https://nodejs.org/en/download/), [NPM](https://docs.npmjs
     ```
 
 5. Your site will be available at *localhost:3000*.
+
+Note: This project was created with the help of "Vue.js essentials".
