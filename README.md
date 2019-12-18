@@ -38,4 +38,4 @@ Ensure [Node.js  >=4](https://nodejs.org/en/download/), [NPM](https://docs.npmjs
 
 5. Your site will be available at *localhost:3000*.
 
-Note: This project was created with the help of "Vue.js essentials".
+Note: This project was carried out with the help of the course "Vue.js essentials".
